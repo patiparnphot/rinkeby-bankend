@@ -1,0 +1,17 @@
+{
+  "name": "rinkeby-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serverDapp.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ethereumjs-tx": "^2.1.2",
+    "express": "^4.15.2",
+    "web3": "^1.6.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
